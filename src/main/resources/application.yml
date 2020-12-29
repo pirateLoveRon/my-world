@@ -3,6 +3,7 @@ spring:
     name: EUREKA
 server:
   port: 8080
+#EUREKA配置
 eureka:
   instance:
     hostname: localhost
